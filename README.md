@@ -1,7 +1,8 @@
 
-The purpose of watershed segmentation is to delineate and identify boundaries between distinct objects or regions within an image, enhancing the accuracy and efficiency of image analysis. This method simulates the process of a watershed filling with water, where contours are detected at points where different regions converge.Watershed segmentation is commonly used in medical imaging to separate and identify different anatomical structures, such as organs or tissues, within complex images like MRI or CT scans.
+The purpose of watershed segmentation is to delineate and identify boundaries between distinct objects or regions within an image, enhancing the accuracy and efficiency of image analysis. This method simulates the process of a watershed filling with water, where contours are detected at points where different regions converge.Watershed segmentation is commonly used in medical imaging to separate and identify different anatomical structures, within complex images like MRI or CT scans.
 
-The purpose of this project was to demonstarte the capabilities of watershed segmentation on a sun flower field. 
+This project was to demonstarted the capabilities of watershed segmentation on a sun flower field.
+
 Listed are the steps taken:
 1)	Grayscale the image. 
 2)	Gradient magnitude as a segmentation function. This will show boundries of objects
